@@ -5,7 +5,7 @@ This website displays a soothing interface for an art gallery manifestation.
 
 <!-- Center and widen the screenshot -->
 <div align="center">
-  <img src="https://github.com/Clavius4/Author-site/blob/master/assets/images/b1.png" width="600">
+  <img src="https://github.com/Clavius4/Art-Website-Gallery/blob/main/a1.png" width="600">
 </div>
 
 
